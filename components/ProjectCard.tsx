@@ -42,7 +42,7 @@ const projects = [
     id: 5,
     title: "Manage Private Clinic",
     description: "Help manage patients, drugs and automated create medical records.",
-    image: "/projects/automation.png",
+    image: "/projects/manage_clinic_private.jpg",
     demoLink: "https://youtu.be/4-6psWjg4nc",
     githubLink: "https://github.com/duyp6090/private_clinic_management_se104",
   },
