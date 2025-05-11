@@ -7,6 +7,7 @@ const navItems = [
   { label: "Home", href: "/home" },
   { label: "About", href: "/about" },
   { label: "Projects", href: "/projects" },
+  { label: "Contact", href: "/contact" },
   { label: "My CV", href: "https://drive.google.com/file/d/1CsAXEua_5oKscZ28FH4yPGB-dKqDfIZz/view?usp=sharing" },
 ];
 
