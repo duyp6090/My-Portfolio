@@ -8,7 +8,7 @@ const navItems = [
   { label: "About", href: "/about" },
   { label: "Projects", href: "/projects" },
   { label: "Contact", href: "/contact" },
-  { label: "My CV", href: "https://drive.google.com/file/d/1CsAXEua_5oKscZ28FH4yPGB-dKqDfIZz/view?usp=sharing" },
+  { label: "My CV", href: "https://drive.google.com/file/d/1wysapKkN9oPECBx557XYkssHrcYDViL0/view?usp=sharing" },
 ];
 
 export default function Header() {
